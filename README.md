@@ -1,37 +1,86 @@
-# 👋 Hi, I'm Arpit Pandey
+<h1 align="center">Hi 👋, I'm Arpit Pandey</h1>
+<h3 align="center">Building a lot. Learning what sticks.</h3>
 
-### Building a lot. Learning what sticks.
+<p align="center">
+  I’m a Software Development Engineer turning ambiguous problems into clear, reliable systems. From crafting full-stack platforms to grinding through complex system design challenges, I'm all about building real-world, scalable applications.
+</p>
 
----
-
-## 🚀 About Me
-
-* 🧑‍💼 Analyst @ Deloitte
-* ⚙️ Focused on backend systems & distributed architectures
-* 🧠 Exploring Data Engineering & Machine Learning
-* 📍 Bangalore, India
-
----
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
----
-
-## 🎯 Current Focus
-
-* System Design
-* Distributed Systems
-* Building real-world scalable applications
-
-* <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey0&" alt="pandey0" /></p>
-
+<p align="center">
+  <a href="mailto:arpit242002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://arpit-shop.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-* 📧 [arpit242002@gmail.com](mailto:arpit242002@gmail.com)
-* 🌐 [https://github.com/pandey0](https://arpit-shop.vercel.app/)
+### 🚀 About Me
+
+<table>
+  <tr>
+    <td width="50%">
+      <ul>
+        <li>🧑‍💼 <b>Current Role:</b> SDE / Analyst @ Deloitte</li>
+        <li>⚙️ <b>Core Focus:</b> Backend systems & full-stack development (Next.js & React Native)</li>
+        <li>🧠 <b>Exploring:</b> Data Engineering & Machine Learning</li>
+        <li>💡 <b>Practicing:</b> Algorithms & problem-solving in Python</li>
+        <li>📍 <b>Location:</b> Bangalore, India</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <b>🛠️ Currently Building:</b>
+      <ul>
+        <li>🏥 <b>HealthLedger:</b> Full-stack personal health intelligence platform.</li>
+        <li>📈 <b>HireGrid / Intervu.ai:</b> High-volume ATS & scheduling platform.</li>
+        <li>📱 <b>MoneTrix & BuddyStreak:</b> Native mobile apps for finance and habits.</li>
+        <li>🎨 <b>Creative:</b> Animated kids' stories for YouTube (Golu & Molu).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-⭐ *Struggling. Learning. Still building.*
+### 💻 Tech Stack
+
+<p align="center">
+  <b>Frontend & Mobile</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,js,html,css,tailwind,figma" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Backend & Databases</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,express,django,graphql,postgres,redis,sqlite" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Data, Cloud & DevOps</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kafka,tensorflow,git,nginx" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandey0&show_icons=true&theme=radical&hide_border=true" alt="Arpit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandey0&theme=radical&hide_border=true" alt="Arpit's Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandey0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+</p>
+
+---
+
+<br>
+<p align="center">
+  <i>⭐ Struggling. Learning. Still building. ⭐</i>
+</p>
