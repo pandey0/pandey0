@@ -35,7 +35,6 @@
         <li>🏥 <b>HealthLedger:</b> Full-stack personal health intelligence platform.</li>
         <li>📈 <b>HireGrid / Intervu.ai:</b> High-volume ATS & scheduling platform.</li>
         <li>📱 <b>MoneTrix & BuddyStreak:</b> Native mobile apps for finance and habits.</li>
-        <li>🎨 <b>Creative:</b> Animated kids' stories for YouTube (Golu & Molu).</li>
       </ul>
     </td>
   </tr>
